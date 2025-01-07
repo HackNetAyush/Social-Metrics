@@ -1,0 +1,26 @@
+# .gitignore for Node.js Backend
+
+# Ignore environment variables file
+.env
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore npm package lock file (optional, if you don't want to track it)
+# package-lock.json
+
+# Ignore coverage files (if you use a testing tool)
+coverage/
+
+# Ignore build and dist folders (if you have any build process)
+build/
+dist/
