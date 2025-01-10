@@ -2,8 +2,6 @@
 
 **Transforming Social Media Engagement Analysis with AI-Powered Insights and Dynamic Visualizations**
 
-![Social Metrics](https://socialmetrix.netlify.app/assets/banner.png) <!-- Replace with an appropriate banner if available -->
-
 ## 🌐 Hosted URLs
 
 - **Frontend**: [SocialMetrics](https://socialmetrix.netlify.app)
