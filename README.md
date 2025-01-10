@@ -46,5 +46,3 @@ Social Metrics is an advanced, AI-powered platform for analyzing and visualizing
 
 - Langflow
 - GPT Integration
-
----
